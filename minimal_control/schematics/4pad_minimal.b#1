@@ -1404,8 +1404,8 @@ design rules under a new name.</description>
 <contactref element="JP5" pad="2"/>
 <contactref element="D1" pad="P$2"/>
 <wire x1="46.99" y1="26.67" x2="39.37" y2="26.67" width="0.3048" layer="16"/>
-<wire x1="39.37" y1="26.67" x2="37.338" y2="27.432" width="0.3048" layer="16"/>
-<wire x1="37.338" y1="27.432" x2="27.988" y2="27.432" width="0.3048" layer="16"/>
+<wire x1="39.37" y1="26.67" x2="38.608" y2="27.432" width="0.3048" layer="16"/>
+<wire x1="38.608" y1="27.432" x2="27.988" y2="27.432" width="0.3048" layer="16"/>
 <wire x1="27.988" y1="27.432" x2="27.94" y2="27.48" width="0.3048" layer="16"/>
 </signal>
 <signal name="LED-GND2" class="2">
@@ -1435,8 +1435,8 @@ design rules under a new name.</description>
 <signal name="SWT-GND3" class="3">
 <contactref element="JP7" pad="2"/>
 <contactref element="D2" pad="P$2"/>
-<wire x1="46.99" y1="21.59" x2="43.18" y2="21.59" width="0.3048" layer="16"/>
-<wire x1="43.18" y1="21.59" x2="40.64" y2="22.86" width="0.3048" layer="16"/>
+<wire x1="46.99" y1="21.59" x2="41.91" y2="21.59" width="0.3048" layer="16"/>
+<wire x1="41.91" y1="21.59" x2="40.64" y2="22.86" width="0.3048" layer="16"/>
 <wire x1="40.64" y1="22.86" x2="28.4" y2="22.86" width="0.3048" layer="16"/>
 <wire x1="28.4" y1="22.86" x2="27.94" y2="23.32" width="0.3048" layer="16"/>
 </signal>
